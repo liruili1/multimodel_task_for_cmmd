@@ -1,4 +1,5 @@
-##This is a rename_file for preprocessing the revised CMMD(The Chinese Mammography Database) by Tohoku university tucim
+##This is a rename_file for preprocessing the revised CMMD(The Chinese Mammography Database) 
+##by Tohoku university tucim
 import os
 import shutil
 from tqdm import  tqdm
