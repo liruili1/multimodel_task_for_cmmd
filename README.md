@@ -12,12 +12,11 @@ Before the training step, it is required that process the file name like below.
 ```
 D1-0001_R_MLO_Benign_calc_1-1_0_0_1.png
 ```
-First, you can use the following 
+First, you can use the following file to correspond the image and mask file.
 ```python
-class_label_process.py 
+cmmd_rename.py
 ```
-```bash
-pip install -r requirements.txt
-```
+Following this step, you can use ```class_label_process.py``` file to add the subtype tag and  Left-Right Marker.
+
 
 
