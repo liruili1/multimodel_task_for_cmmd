@@ -10,7 +10,6 @@ We revised this dataset, it now has subtype labels and corresponding lesion mask
 
 Before the training step,
     python train.py
-    
 
 
 
