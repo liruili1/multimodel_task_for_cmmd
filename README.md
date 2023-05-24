@@ -8,8 +8,13 @@ We revised this dataset, it now has subtype labels and corresponding lesion mask
 
 ### Preprocess
 
-Before the training step,
-```C++
-python train.py
+Before the training step, it is required that process the file name like below
+```python
+D1-0001_R_MLO_Benign_calc_1-1_0_0_1.png
 ```
+You can use the following file to compelete this step.
+```python
+class_label_process.py
+```
+
 
