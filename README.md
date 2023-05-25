@@ -10,7 +10,7 @@ We revised this dataset, and it now has subtype labels and corresponding lesion 
 
 #### Step 1
 
-Use the ```divide_rf.py``` to split the right/left mlo image and corresponding mask into 
+Use the ```divide_rf.py``` to split the right/left mlo image and corresponding mask into right/left directory
 
 
 
