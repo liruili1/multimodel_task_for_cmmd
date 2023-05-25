@@ -16,6 +16,7 @@ Use the ```divide_rf.py``` to split the right/left mlo image and corresponding m
 
 Use ```stack_mask.py``` to process the multi-mask into one mask image with different colors
 Processed mask is like below:
+!image()
 
 
 
