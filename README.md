@@ -19,6 +19,10 @@ Processed mask is like below:
 
 ![image](https://github.com/liruili1/multimodel_task_for_cmmd/blob/main/sample/mask_sample.png)
 
+#### Step 3
+
+Use ```corres_imgmask.py``` to correspond processed image and mask file into image and mask folder.
+The processed CMMD dataset is like below
 
 
 
