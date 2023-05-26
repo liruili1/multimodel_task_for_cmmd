@@ -23,7 +23,8 @@ Processed mask is like below:
 
 Use ```corres_imgmask.py``` to correspond processed image and mask file into image and mask folder.
 The processed CMMD dataset is like below
-    ├── coco
+  ```
+  ├── coco
     │   ├── annotations
     │   │   ├── instances_train2017.json
     │   │   └── instances_val2017.json
@@ -36,7 +37,7 @@ The processed CMMD dataset is like below
     │   ├── LICENSE
     │   └── README.txt
 
-
+```
 
 
 
