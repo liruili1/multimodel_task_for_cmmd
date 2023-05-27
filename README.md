@@ -38,7 +38,7 @@ The processed CMMD dataset is like below:
 ```
 
 #### Step 4  
-Use ```class_label_process.py``` to process the class tag
+Use ```class_label_process.py``` to process the class tag. This is a sample of processed img with class tags ``` D1-0045_L_MLO_Malign_calc_1_0.png ``` 
 ### Training
 
 
