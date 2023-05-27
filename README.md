@@ -36,6 +36,9 @@ The processed CMMD dataset is like below:
 
 
 ```
+
+#### Step 4  
+Use ```class_label_process.py``` to process the class tag
 ### Training
 
 
